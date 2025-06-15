@@ -3,6 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import Dropdown from './Dropdown'
+// import InlineEdit from './InlineEdit'
 
 function App() {
   
@@ -11,13 +12,13 @@ function App() {
       <header className='border-b py-4'>
         <div className=' container mx-auto px-4'>
           <h1 className='text-2xl font-bold'>
-            React Project
+            React Projects
           </h1>
         </div>
 
       </header>
       <main>
-        <Dropdown/>
+        <InlineEdit />
       </main>
 
     </div>
