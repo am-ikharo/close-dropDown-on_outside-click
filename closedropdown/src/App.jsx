@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import Dropdown from './Dropdown'
-// import InlineEdit from './InlineEdit'
+import InlineEdit from './InlineEdit'
 
 function App() {
   
